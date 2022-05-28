@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\bin\Debug\net6.0\cargoProqram.exe
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\bin\Debug\net6.0\cargoProqram.deps.json
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\bin\Debug\net6.0\cargoProqram.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\bin\Debug\net6.0\cargoProqram.dll
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\bin\Debug\net6.0\ref\cargoProqram.dll
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\bin\Debug\net6.0\cargoProqram.pdb
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\obj\Debug\net6.0\cargoProqram.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\obj\Debug\net6.0\cargoProqram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\obj\Debug\net6.0\cargoProqram.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\obj\Debug\net6.0\cargoProqram.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\obj\Debug\net6.0\cargoProqram.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\obj\Debug\net6.0\cargoProqram.dll
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\obj\Debug\net6.0\ref\cargoProqram.dll
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\obj\Debug\net6.0\cargoProqram.pdb
+C:\Users\User\OneDrive\Masaüstü\Projects\Proqram for calculating cargo orders\cargoProqram\cargoProqram\obj\Debug\net6.0\cargoProqram.genruntimeconfig.cache
