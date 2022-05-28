@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exchange_rate_calculation_program/1.0.0": {
+        "runtime": {
+          "Exchange_rate_calculation_program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exchange_rate_calculation_program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
